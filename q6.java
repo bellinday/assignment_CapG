@@ -1,7 +1,5 @@
 package Assign;
 
-
-
 class Credentials{
 	String userName;
 	String password;
